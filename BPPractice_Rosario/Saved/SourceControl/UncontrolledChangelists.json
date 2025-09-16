@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/TestEnvironment.umap",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Player/BP_PlayerCont.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Player/BP_GameMode.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Inputs/Input_Interact.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Inputs/Input_Look.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Interfaces/Interface_Interact.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Interactables/Interact.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Interactables/BP_Collection.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Interactables/BP_CollectiblePickuo.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Interactables/BP_CollectiblePickup.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Maps/Inputs/Mapping_Player.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Maps/Inputs/Input_Movement.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Maps/Inputs/Input_Look.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Maps/Inputs/Input_Interact.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Maps/Inputs/Input_Jump.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Interactables/Interacy.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Maps/Inputs/Mapping.uasset",
+				"C:/Users/Genes/Documents/Unreal Projects/MyGameProject/BPPractice_Rosario/Content/Maps/Inputs/Input_Movements.uasset"
+			]
+		}
+	]
+}
